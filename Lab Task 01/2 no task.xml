@@ -1,0 +1,31 @@
+<PRODUCTS>
+  <PRODUCT>
+    <SL_NUM>23</SL_NUM>
+    <NAME>JOHN CENTER</NAME>
+    <ADMISSION_DATE>
+        <DATE>25</DATE>
+        <MONTH>12</MONTH>
+        <YEAR>2015</YEAR>
+    </ADMISSION_DATE>
+
+  </PRODUCT>
+  <PRODUCT>
+    <SL_NUM>29</SL_NUM>
+    <NAME>BOB MARSHAL</NAME>
+    <ADMISSION_DATE>
+        <DATE>13</DATE>
+        <MONTH>1</MONTH>
+        <YEAR>1999</YEAR>
+    </ADMISSION_DATE>
+
+
+  </PRODUCT>
+  <PRODUCT>
+    <SL_NUM>35</SL_NUM>
+    <NAME>CLARK KLINT</NAME>
+    <ADMISSION_DATE>
+        <DATE>17</DATE>
+        <MONTH>6</MONTH>
+        <YEAR>2005</YEAR>
+    </ADMISSION_DATE>
+</PRODUCTS>
