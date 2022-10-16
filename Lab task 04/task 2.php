@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <?php
+
     <form class="" action="index.html" method="post">
       <fieldset>
         <legend>CHANGE PASSWORD</legend>
@@ -30,7 +30,7 @@
 
     </form>
     </fieldset>
-     ?>
+     
 
   </body>
 </html>

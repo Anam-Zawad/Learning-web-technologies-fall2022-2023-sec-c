@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <?php
+
 
     <form class="" action="index.html" method="post">
       <div class="">
@@ -70,6 +70,6 @@
   </div>
 
     </form>
-    ?>
+  
   </body>
 </html>

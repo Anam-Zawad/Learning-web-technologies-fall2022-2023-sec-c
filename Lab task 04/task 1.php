@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <?php
+
     <form class="" action="index.html" method="post">
       <fieldset>
         <legend>Login</legend>
@@ -34,6 +34,6 @@
 
     </fieldset>
 
-     ?>
+    
   </body>
 </html>

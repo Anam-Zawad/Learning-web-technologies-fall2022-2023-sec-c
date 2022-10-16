@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <?php
+
     <img src="" alt="">
     <form class="" action="index.html" method="post">
       <fieldset>
@@ -25,7 +25,7 @@
       </fieldset>
 
     </form>
-     ?>
+    
 
   </body>
 </html>
